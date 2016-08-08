@@ -1,0 +1,25 @@
+_repo: The-Boy-Mechanic--Volume-1700-Things-for-Boys-to-Do_12655
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Popular Mechanics Company
+    gutenberg_agent_id: '4477'
+    url: http://www.gutenberg.org/2009/agents/4477
+description: ''
+gutenberg_bookshelf: Children's Instructional Books
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12655'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TT'
+- !lcsh 'Handicraft for boys'
+- GITenberg
+title: 'The Boy Mechanic: Volume 1
+
+  700 Things for Boys to Do'
+url: http://www.gutenberg.org/ebooks/12655
