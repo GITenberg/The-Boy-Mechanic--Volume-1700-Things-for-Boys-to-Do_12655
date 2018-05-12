@@ -1,11 +1,16 @@
 _repo: The-Boy-Mechanic--Volume-1700-Things-for-Boys-to-Do_12655
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Popular Mechanics Company
     gutenberg_agent_id: '4477'
     url: http://www.gutenberg.org/2009/agents/4477
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12655#The-Boy-Mechanic--Volume-1700-Things-for-Boys-to-Do
 gutenberg_bookshelf: Children's Instructional Books
 gutenberg_issued: '2004-06-01'
 gutenberg_type: Text
